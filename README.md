@@ -1,5 +1,9 @@
 # PVDF_STM32&ROS&PCB
 
+## Model
+我们提供了SolidWorks的零件、装配体等。整体效果如下
+![碰撞感知系统外形](/fig/appearance.png "碰撞感知系统外形")
+
 ## PCB
 直接打印就行，可以代替无人机的碳板。
 ![PCB外形](/fig/pcb.png "pcb外形")
